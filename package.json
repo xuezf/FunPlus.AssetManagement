@@ -5,6 +5,6 @@
     "unity": "2018.4",
     "description": "Load asset form AssetBundle or web or local asset",
     "dependencies": {
-        "com.funplus.common": "https://github.com/xuezf/Funplus.Common.git#0.1.0"
+        "com.funplus.common": "https://github.com/xuezf/Funplus.Common.git"
     }
 }
