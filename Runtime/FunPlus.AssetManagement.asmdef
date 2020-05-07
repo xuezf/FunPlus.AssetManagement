@@ -1,0 +1,14 @@
+{
+    "name": "FunPlus.AssetManagement",
+    "references": [
+        "com.funplus.Common.Runtime"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
